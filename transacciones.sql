@@ -1,6 +1,3 @@
-use [saldos] 
-go
-
 create table cuentas(
 _id int,
 numero_cuenta varchar(20),
