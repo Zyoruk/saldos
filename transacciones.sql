@@ -32,7 +32,6 @@ create table movimiento(
 _id int,
 _idCuenta int,
 _idTarjeta int,
-movimiento varchar(20),
 descripcion varchar (256),
 moneda char(4),
 monto numeric(18,2),
